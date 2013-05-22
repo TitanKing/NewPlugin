@@ -45,7 +45,7 @@
 	<!-- Version here represents the database version that should be install. -->
 	<!-- If your database version needs no update, this number can stay the same. -->
 	<!-- Upgrades further down will only be executed up to this number. -->
-	<install version="1004">
+	<install version="1005">
 		<!--
 		[contains][All query, menu, settings installation tags.]
 	    [param][version][int][mandatory][The latest database version in numbers only.]
